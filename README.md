@@ -11,10 +11,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -36,7 +33,7 @@ Users should be able to:
 - Solution URL: [Solution](https://your-solution-url.com)
 - Live Site URL: [Live site](https://your-live-site-url.com)
 
-### My process
+## My process
 
 I started with HTML first, then added all the styling with CSS.
 
