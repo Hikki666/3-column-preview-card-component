@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/tools-used-none-just-a-bit-of-html-and-css-MzFJKCVy7)
+- Live Site URL: [Live site](https://sklady.netlify.app/challengesfrontedmentor/3-column-preview-card-component/index.html)
 
 ## My process
 
